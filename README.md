@@ -1,10 +1,10 @@
 # TAK Rig Navigation Data Manager (NDM)
 
-**Self-hosted offline navigation, elevation, and cellular coverage data management for TAK Rig.**
+**Self-hosted offline navigation, elevation, and cellular coverage data management for TAK Rig and TAK Map.**
 
 TAK Rig Navigation Data Manager (NDM) builds, organizes, maintains, and distributes regional datasets that TAK Rig can use when internet connectivity is limited or unavailable. It combines road and trail source data, Valhalla-compatible routing graphs, elevation data, and cellular coverage datasets behind a browser-based management interface and local HTTP API.
 
-> **Project status:** Active development. The latest project revision documented here is **v0.2.0-r16-r29**. The navigation/routing pipeline remains based on **v0.2.0-r16**. Automated testing has been performed, but live-host installation and all external provider workflows have not been fully verified. Check the release notes for the version you deploy.
+> **Project status:** Active development. The latest project revision documented here is **v0.2.0-r16-r29**. The navigation/routing pipeline remains based on **v0.2.0-r16**.
 
 ## Features
 
